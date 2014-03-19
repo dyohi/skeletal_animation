@@ -1,0 +1,68 @@
+{
+  "name" : "UntitledAnimation",
+  "skinFrames" : [
+
+  ],
+  "connectionFrames" : [
+
+  ],
+  "visibilityFrames" : [
+
+  ],
+  "positionFrames" : [
+    {
+      "bones" : {
+        "neck" : "{0, 45}",
+        "RootBone" : "{0, 0}",
+        "arm_left" : "{-15, 37}",
+        "to_leg_right_1" : "{-10, -40}",
+        "leg_right" : "{10, -44}",
+        "head" : "{1, 52}",
+        "to_leg_right" : "{10, -39}",
+        "to_arm_right" : "{18, 42}",
+        "to_arm_left" : "{-16, 42}",
+        "arm_right" : "{20, 37}",
+        "leg_left" : "{-10, -44}"
+      },
+      "time" : 0.001875
+    },
+    {
+      "bones" : {
+        "arm_left" : "{-20, 38}",
+        "to_leg_right_1" : "{-13, -39}",
+        "leg_right" : "{16, -42}",
+        "to_leg_right" : "{13, -38}",
+        "to_arm_left" : "{-15, 41}",
+        "arm_right" : "{23, 41}",
+        "leg_left" : "{-15, -43}"
+      },
+      "time" : 0.9903516
+    },
+    {
+      "bones" : {
+        "arm_left" : "{-15, 37}",
+        "to_leg_right_1" : "{-10, -40}",
+        "leg_right" : "{10, -44}",
+        "to_leg_right" : "{10, -39}",
+        "to_arm_left" : "{-16, 42}",
+        "arm_right" : "{20, 37}",
+        "leg_left" : "{-10, -44}"
+      },
+      "time" : 1.986953
+    }
+  ],
+  "playMode" : 0,
+  "spriteTransformFrames" : [
+
+  ],
+  "metadata" : {
+    "app" : "SpriteHelper",
+    "author" : "Vladu Bogdan",
+    "web" : "http:\/\/www.gamedevhelper.com",
+    "version" : 1
+  },
+  "zOrderFrames" : [
+
+  ],
+  "totalTime" : 2
+}

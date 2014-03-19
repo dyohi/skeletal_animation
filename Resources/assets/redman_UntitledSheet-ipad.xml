@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This atlas was generated using SpriteHelper 2 -->
+<!-- http://www.gamedevhelper.com -->
+<Imageset Name="UntitledSheet" Imagefile="redman_UntitledSheet-ipad.png" NativeHorzRes="111" NativeVertRes="152" AutoScaled="false">
+	<Image Name="head.png" XPos="1" YPos="1" Width="71" Height="71"/>
+	<Image Name="foot_right.png" XPos="1" YPos="74" Width="35" Height="42"/>
+	<Image Name="foot_left.png" XPos="38" YPos="74" Width="35" Height="42"/>
+	<Image Name="body.png" XPos="74" YPos="1" Width="35" Height="87"/>
+	<Image Name="arm_right.png" XPos="1" YPos="118" Width="63" Height="15"/>
+	<Image Name="arm_left.png" XPos="1" YPos="135" Width="63" Height="15"/>
+</Imageset>
